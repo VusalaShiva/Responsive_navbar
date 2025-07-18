@@ -71,6 +71,8 @@ body {
 }
 @media (max-width: 499px) {
   .hamburger {
+    position: absolute;
+    right: 10%;
     display: block;
     z-index: 1001;
     text-align: end;
